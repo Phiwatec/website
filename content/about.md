@@ -12,7 +12,7 @@ Github:
 Wikipedia:
 [Phiwatec](https://de.wikipedia.org/wiki/Benutzer:Phiwatec)  
 
-![IPv6 Website](/v6.svg)  
+![IPv6 Website](/v6.webp)  
 
 
 {{< rawhtml >}}

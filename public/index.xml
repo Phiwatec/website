@@ -8,12 +8,13 @@
     <lastBuildDate>Sat, 05 Mar 2022 22:23:53 +0100</lastBuildDate><atom:link href="http://mongo.hetzner.pwserv.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bau einer Pumpensteuerung</title>
-      <link>http://mongo.hetzner.pwserv.net/posts/website-mit-nginx/</link>
+      <link>http://mongo.hetzner.pwserv.net/posts/pumpensteuerung/</link>
       <pubDate>Sat, 05 Mar 2022 22:23:53 +0100</pubDate>
       
-      <guid>http://mongo.hetzner.pwserv.net/posts/website-mit-nginx/</guid>
+      <guid>http://mongo.hetzner.pwserv.net/posts/pumpensteuerung/</guid>
       
-        <description>Überlegungen Benötigt wurde eine Schaltung, die für eine niveauregulierte Befüllung eines Behälters eine Pumpe ein- und ausschaltet und dabei eine relativ große Hysterese hat. Das heißt, zwischen Einschaltzeitpunkt und Ausschaltzeitpunkt soll der Höhenunterschied beim Wasserstand etwa 10cm betragen. Die jeweilige Wasserhöhe wird mittels Schwimmschalter überwacht, wobei beim verwendeten Sensor beide Wasserstände über die unterschiedlich hoch angebrachten Schwimmer erfasst werden.</description>
+        <description>Überlegungen Benötigt wurde eine Schaltung, die für eine niveauregulierte Befüllung eines Behälters eine Pumpe ein- und ausschaltet und dabei eine relativ große Hysterese hat. Das heißt, zwischen Einschaltzeitpunkt und Ausschaltzeitpunkt soll der Höhenunterschied beim Wasserstand etwa 10cm betragen. Die jeweilige Wasserhöhe wird mittels Schwimmschalter überwacht, wobei beim verwendeten Sensor beide Wasserstände über die unterschiedlich hoch angebrachten Schwimmer erfasst werden.
+Die nachfolgend gezeigte Logikschaltung schaltet erst dann die Pumpe ein bzw. aus, wenn entweder beide Schalter geschlossen sind (höchster Wasserstand) oder beide offen sind (niedrigster Wasserstand).</description>
       
     </item>
     
