@@ -1,0 +1,34 @@
+.theme--light .sidebar {
+background-color:#DAB88B;
+}
+
+.theme--dark .sidebar {
+background-color:#041C32;
+}
+.theme--dark main{
+background-color:#064663;
+
+}
+.theme--dark .post{
+background-color:#064663;
+
+}
+
+.medium-zoom-image{
+width:20%;
+}
+.post__content img{
+margin-left:0px;
+}
+.theme--dark .nav__list{
+background-color:#04293A;
+
+}
+.theme--light .nav__list{
+background-color:#FDF6EC;
+
+}
+.connected-via{
+width:100px;
+display:inline-block;
+}

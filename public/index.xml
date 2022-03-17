@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Über mich on </title>
+    <link>http://mongo.hetzner.pwserv.net/</link>
+    <description>Recent content in Über mich on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Mar 2022 22:23:53 +0100</lastBuildDate><atom:link href="http://mongo.hetzner.pwserv.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bau einer Pumpensteuerung</title>
+      <link>http://mongo.hetzner.pwserv.net/posts/website-mit-nginx/</link>
+      <pubDate>Sat, 05 Mar 2022 22:23:53 +0100</pubDate>
+      
+      <guid>http://mongo.hetzner.pwserv.net/posts/website-mit-nginx/</guid>
+      
+        <description>Überlegungen Benötigt wurde eine Schaltung, die für eine niveauregulierte Befüllung eines Behälters eine Pumpe ein- und ausschaltet und dabei eine relativ große Hysterese hat. Das heißt, zwischen Einschaltzeitpunkt und Ausschaltzeitpunkt soll der Höhenunterschied beim Wasserstand etwa 10cm betragen. Die jeweilige Wasserhöhe wird mittels Schwimmschalter überwacht, wobei beim verwendeten Sensor beide Wasserstände über die unterschiedlich hoch angebrachten Schwimmer erfasst werden.</description>
+      
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>http://mongo.hetzner.pwserv.net/about/</link>
+      <pubDate>Sat, 05 Mar 2022 22:23:53 +0100</pubDate>
+      
+      <guid>http://mongo.hetzner.pwserv.net/about/</guid>
+      
+        <description>Ich, Philipp Wasser, bin seit dem Wintersemester 2019 Student am KIT (Karlsruher Institut für Technologie) im Studiengang Mechatronik und Informationstechnik.
+Ich bin begeisterter Vollzeit Linux Nutzer und administriere nebenher mehrere Websites. (Unter anderem diese)
+Github: @Phiwatec
+Wikipedia: Phiwatec
+var _ipv6test_widget_style = { border: &#34;solid 1px #000&#34;, font_size: &#34;12px&#34;, show_country_flags: true, show_loading_anim: true, ipv4_label_color: &#34;#393&#34;, ipv4_background_color: &#34;#eee&#34;, ipv6_label_color: &#34;#339&#34;, ipv6_background_color: &#34;#ddd&#34;, stats_position: &#34;bottom&#34;, stats_font_size: &#34;10px&#34;, stats_color: &#34;#eee&#34;, stats_color_v4: &#34;#beb&#34;, stats_color_v6: &#34;#bbe&#34;, stats_background_color: &#34;</description>
+      
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>http://mongo.hetzner.pwserv.net/home/</link>
+      <pubDate>Sat, 05 Mar 2022 22:23:53 +0100</pubDate>
+      
+      <guid>http://mongo.hetzner.pwserv.net/home/</guid>
+      
+        <description>Ich, Philipp Wasser, bin seit dem Wintersemester 2019 Student am KIT (Karlsruher Institut für Technologie) im Studiengang Mechatronik und Informationstechnik.
+Ich bin begeisterter Vollzeit Linux Nutzer und administriere nebenher mehrere Websites. (Unter anderem diese)
+Github: @Phiwatec
+Wikipedia: Phiwatec
+var _ipv6test_widget_style = { border: &#34;solid 1px #000&#34;, font_size: &#34;12px&#34;, show_country_flags: true, show_loading_anim: true, ipv4_label_color: &#34;#393&#34;, ipv4_background_color: &#34;#eee&#34;, ipv6_label_color: &#34;#339&#34;, ipv6_background_color: &#34;#ddd&#34;, stats_position: &#34;bottom&#34;, stats_font_size: &#34;10px&#34;, stats_color: &#34;#eee&#34;, stats_color_v4: &#34;#beb&#34;, stats_color_v6: &#34;#bbe&#34;, stats_background_color: &#34;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://mongo.hetzner.pwserv.net/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mongo.hetzner.pwserv.net/imprint/</guid>
+      
+        <description>Angaben gemäß § 5 TMG: Name
+Philipp Wasser
+Anschrift
+Sophienstrasse 166
+76135 Karlsruhe Weststadt
+E-Mail-Adresse
+info@philippwasser.de
+Telefon
+0721 46725267
+Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://mongo.hetzner.pwserv.net/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mongo.hetzner.pwserv.net/tools/</guid>
+      
+        <description>Hier eine Liste kleiner WebTools, die ich für mich geschrieben habe:
+ Simples DNS Lookup ohne „SchnickSchnack“ 🙂 : hier Die eigene Öffentliche IP anzeigen. Ohne CSS und js : hier 10GB zufällige Binärdaten. Ideal als Speedtest. (Download startet sofort. Den Download einfach nach dem Test abbrechen): hier PDF Dokument mit allen Werten der verschiedenen E Reihen : hier  </description>
+      
+    </item>
+    
+  </channel>
+</rss>

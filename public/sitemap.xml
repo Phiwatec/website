@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://mongo.hetzner.pwserv.net/posts/website-mit-nginx/</loc>
+    <lastmod>2022-03-05T22:23:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mongo.hetzner.pwserv.net/posts/</loc>
+    <lastmod>2022-03-05T22:23:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mongo.hetzner.pwserv.net/</loc>
+    <lastmod>2022-03-05T22:23:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mongo.hetzner.pwserv.net/about/</loc>
+    <lastmod>2022-03-05T22:23:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mongo.hetzner.pwserv.net/home/</loc>
+    <lastmod>2022-03-05T22:23:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mongo.hetzner.pwserv.net/imprint/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mongo.hetzner.pwserv.net/tools/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mongo.hetzner.pwserv.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mongo.hetzner.pwserv.net/tags/</loc>
+  </url>
+  
+</urlset>

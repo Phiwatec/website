@@ -1,0 +1,65 @@
+baseURL = "http://mongo.hetzner.pwserv.net/"
+theme="anatole"
+[params]
+title = "Philipps Website"
+author = "Philipp  Wasser"
+
+profilePicture = "profile.webp"
+contentratio = 0.8
+customCss = ["css/custom.css"]
+mainSections = ["post"]
+
+
+
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:mail@example.com"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://twitter.com/phiwatec"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "github"
+url = "https://github.com/Phiwatec"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "linkedin"
+url = "https://www.linkedin.com/in/philipp-wasser-384aab194/"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "Über"
+  weight = 300
+  identifier = "about2"
+  url = "/about/"
+
+[[menu.main]]
+  name = "Impressum"
+  weight = 500
+  identifier = "imprint"
+  url = "/imprint/"
+
+[[menu.main]]
+  name = "Tools"
+  weight = 400
+  identifier = "tools"
+  url = "/tools/"
