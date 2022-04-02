@@ -6,6 +6,9 @@ draft: false
 
 Ich, Philipp Wasser, bin seit dem Wintersemester 2019 Student am KIT (Karlsruher Institut für Technologie) im Studiengang Mechatronik und Informationstechnik.  
 Ich bin begeisterter Vollzeit Linux Nutzer und administriere nebenher mehrere Websites. (Unter anderem diese)  
+I :: IPv6  
+I❤️IPv6  
+I::IPv6  
 
 Github: 
 [@Phiwatec](https://github.com/Phiwatec)  
