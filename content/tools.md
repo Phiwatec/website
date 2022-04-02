@@ -1,6 +1,6 @@
  Hier eine Liste kleiner WebTools, die ich für mich geschrieben habe:  
 - Simples DNS Lookup ohne „SchnickSchnack“ 🙂 : [hier](https://philippwasser.de/tools/nslookup.php)
-- Die eigene Öffentliche IP anzeigen. Ohne CSS und js : [hier](https://philippwasser.de/tools/ip.php)
+- Die eigene Öffentliche IP anzeigen. Ohne CSS und js : [hier](https://ip.tools.pwserv.net/)
 - 10GB zufällige Binärdaten. Ideal als Speedtest. (Download startet sofort. Den Download einfach nach dem Test abbrechen): [hier](https://philippwasser.de/tools/10GB)  
 - PDF Dokument mit allen Werten der verschiedenen E Reihen : [hier](/E_Reihe.pdf)
 
