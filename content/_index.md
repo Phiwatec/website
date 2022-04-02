@@ -7,4 +7,4 @@ draft: false
 Wilkommen auf meiner Website :)
 Schau dich ruhig um...
 
-Hier gibt es meine aktuellen [Posts](/posts)
+Hier gibt es meine aktuellen Posts:
