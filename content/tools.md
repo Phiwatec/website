@@ -6,5 +6,5 @@
 
 
 {{< rawhtml >}}
- <img class="connected-via" src='http://v4v6.ipv6-test.com/imgtest.png' alt='ipv6 test' title='ipv6 test' border='0' />
+ <img class="connected-via" src='https://v4v6.ipv6-test.com/imgtest.png' alt='ipv6 test' title='ipv6 test' border='0' />
 {{< /rawhtml >}}

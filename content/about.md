@@ -33,6 +33,6 @@ stats_color_v4: "#beb",
 stats_color_v6: "#bbe",
 stats_background_color: "#666"
 }</script>
-<div id="_ipv6test_widget" style="max-width:30em;display:none">loading <a href="//ipv6-test.com/">IPv6 connection test</a> ...</div><script type="text/javascript" src="//ipv6-test.com/api/widget.php?domain=referer" async="async"></script>
+<div id="_ipv6test_widget" style="max-width:30em;display:none">loading <a href="https://ipv6-test.com/">IPv6 connection test</a> ...</div><script type="text/javascript" src="https://ipv6-test.com/api/widget.php?domain=referer" async="async"></script>
 <!-- IPv6-test.com widget END -->
 {{< /rawhtml >}}
