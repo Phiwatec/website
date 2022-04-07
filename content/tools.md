@@ -10,7 +10,7 @@
   - Access (Ruft die aktuelle Website im WebAIM WAVE Tool auf )
   - Shodan (Ruft die IP Seite von Shodan mit der aktuellen IP auf)
   - Dsgvo ( Ruft die aktuelle Website im DSGVO Checker auf)  
-   **Den Sourcecode und eine genauere Beschreibung gibt es [hier](https://github.com/Phiwatec/bookmarklets)**
+   **Den Sourcecode und eine genauere Beschreibung gibt es [hier](https://gist.github.com/Phiwatec/d65e2cb1d4eb8d3fb0183b2ca370895d)**
 
 
 {{< rawhtml >}}
