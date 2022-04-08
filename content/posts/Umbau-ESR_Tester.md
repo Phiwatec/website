@@ -35,7 +35,7 @@ So kann ich nun günstige 9 Volt-Zellen verwenden (also auch Akkus) und diese be
 ![mit neuer Batterie.](/esr_closed_with_bat.webp)
 
 Hinweis:
-
+Test
 Das Gerät gibt es mittlerweile in einer 1,5 Volt-Version, die mit ganz normalen 1,5 Volt-Micro Batterien (AAA) betrieben werden kann.
 
 Ich bin nicht verantwortlich, wenn die Modifikation bei jemand zum Defekt des Gerätes führt.
