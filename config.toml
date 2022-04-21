@@ -8,7 +8,7 @@ profilePicture = "profile.webp"
 contentratio = 0.8
 customCss = ["css/custom.css"]
 mainSections = ["posts"]
-
+doNotLoadAnimations = true
 
 
 
