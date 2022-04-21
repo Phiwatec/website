@@ -1,4 +1,4 @@
-baseURL = "http://mongo.hetzner.pwserv.net/"
+baseURL = "https://philippwasser.de/"
 theme="anatole"
 [params]
 title = "Philipps Website"
