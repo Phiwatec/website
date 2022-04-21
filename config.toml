@@ -7,7 +7,7 @@ author = "Philipp  Wasser"
 profilePicture = "profile.webp"
 contentratio = 0.8
 customCss = ["css/custom.css"]
-mainSections = ["post"]
+mainSections = ["posts"]
 
 
 
