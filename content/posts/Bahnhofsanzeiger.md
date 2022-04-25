@@ -5,7 +5,7 @@ draft: false
 ---
 In der Kombilösung in Karlsruhe werden die Abfahrten über Monitore angezeigt.  
 Allderdings ist mir dabei aufgefallen, dass das Fahrgastinformationssystem häufig ( mehrmals pro Woche) ausfällt.
-Deshalb  habe ich angefangen, Fotos von den Fehlern zu machen.
+Deshalb  habe ich angefangen Fotos von den Fehlern zu machen.
 Nachfolgend stelle ich diese Bilder online.
 Es handelt sich bei dem System um ein Windows 10 !?! auf welchem ein Firefox im Vollbildmodus eine Website anzeigt.  
 Da es sich dabei nicht um ein echtes eingebettes System handelt, sind die Ausfälle häufig und andauernd ( mehrere Stunden).  
