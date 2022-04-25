@@ -40,5 +40,3 @@ stats_background_color: "#666"
 {{< /rawhtml >}}
 
 
-
-**test**

@@ -46,7 +46,7 @@ Aber auch im Normalbetrieb läuft nicht alles rund...:
     <source src="/anzeigen/stottern.mp4" type="video/mp4">
   </video>
 
-{{< rawhtml >}}  
+{{< /rawhtml >}}  
 
   
 Das Stocken des Laufbalken ist wahrscheinlich auf schlechte Programmierung oder falsche Konfiguration zurückzuführen...  
