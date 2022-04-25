@@ -28,7 +28,7 @@ Wenn nun tatsächlich eine Website angezeit wird, kommt es vor das Bilder fehlen
 Aber auch im Normalbetrieb läuft nicht alles rund...:
 
 {{< rawhtml >}}
-<figure class="video_container">
+<figure class="video_container" style="width: 30%;">
   <video controls="true" allowfullscreen="false" poster="/anzeige/stottern.jpg">
     <source src="/anzeigen/stottern.mp4" type="video/mp4">
   </video>
