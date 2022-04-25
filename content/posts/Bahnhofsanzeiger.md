@@ -29,7 +29,7 @@ Aber auch im Normalbetrieb läuft nicht alles rund...:
 
 {{< rawhtml >}}
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="/anzeige/stottern.jpg">
+  <video controls="true" allowfullscreen="false" poster="/anzeige/stottern.jpg">
     <source src="/anzeigen/stottern.mp4" type="video/mp4">
   </video>
 </figure>
