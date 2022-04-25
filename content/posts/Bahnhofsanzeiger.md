@@ -46,5 +46,5 @@ Aber auch im Normalbetrieb läuft nicht alles rund...:
 
 {{< rawhtml >}}  
 Das Stocken des Laufbalken ist wahrscheinlich auf schlechte Programmierung oder falsche Konfiguration zurückzuführen...  
-Man sieht also, dass man vllt. eine Qualitätskontrolle beim Softwarentwickler einführen sollte. Und das Windows als Embedded System weitesgehend ungeeignet ist. Und dass ein Browser im Vollbildmodus **kein** eingebettetes System ist.
+Man sieht also, dass man vllt. eine Qualitätskontrolle beim Softwarentwickler einführen sollte. Und das Windows als Embedded System weitesgehend ungeeignet ist. Und dass ein Browser im Vollbildmodus **kein** __eingebettetes__ System ist.
 
