@@ -39,11 +39,11 @@ Aber auch im Normalbetrieb läuft nicht alles rund...:
     
 
 {{< rawhtml >}}
-<figure class="video_container" >
+
   <video controls="true" style="width:50%;" allowfullscreen="false" poster="/anzeige/stottern.jpg">
     <source src="/anzeigen/stottern.mp4" type="video/mp4">
   </video>
-</figure>
+
 {{< rawhtml >}}  
 Das Stocken des Laufbalken ist wahrscheinlich auf schlechte Programmierung oder falsche Konfiguration zurückzuführen...  
 Man sieht also, dass man vllt. eine Qualitätskontrolle beim Softwarentwickler einführen sollte. Und das Windows als Embedded System weitesgehend ungeeignet ist. Und das ein Browser im Vollbildmodus **kein** eingebettetes System ist.
