@@ -11,7 +11,7 @@ Es handelt sich bei dem System um ein Windows 10 !?! auf welchem ein Firefox im 
 Da es sich dabei nicht um ein echtes eingebettes System handelt, sind die Ausfälle häufig und andauernd ( mehrere Stunden).  
 
 Immer wieder einzelne Displays komplett aus:  
-![Dunkles Display](anzeigen/Fehlendes_Bild.jpg)  
+![Dunkles Display](/anzeigen/Fehlendes_Bild.jpg)  
   
 Wenn das Display nun dennoch funktioniert kommt es vor das der Firefox-Tab abstürzt (und das auch bleibt):  
 ![Tab crash](/anzeigen/Tab_Crashed.jpg)  
