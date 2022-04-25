@@ -17,7 +17,7 @@ Wenn das Display nun dennoch funktioniert kommt es vor das der Firefox-Tab abst�
 ![Tab crash](/anzeigen/Tab_Crashed.jpg)  
   
 
-Ein weiterer häufiger Fehler ist die Fehlermeldung "Forbidden". Das heißt, die Anzeige darf das, was ihre einzige Aufgabe ist nicht anzeigen...:  
+Ein weiterer häufiger Fehler ist die Fehlermeldung "Forbidden". Das heißt, die Anzeige darf das, was sie anzeigen soll nicht anzeigen...:  
 ![Forbidden](/anzeigen/Activate_Windows.jpg)  
   
 
@@ -26,11 +26,11 @@ Dort ist auch das "Activate Windows" Wasserzeichen zu sehen, was von eimem Konfi
   
      
 
-Es kann aber auch sein, dass der komplette Firefox abstürzt und sich Windows meldet. (Dieses Bild wurde übrigens am Tag der Eröffnung aufgenommen....)  
+Es kann aber auch sein, dass der komplette Firefox abstürzt. (Dieses Bild wurde übrigens am Tag der Eröffnung aufgenommen....)  
 ![Broswer Crash](/anzeigen/Minidump.jpg)  
   
     
-Wenn nun tatsächlich eine Website angezeit wird, kommt es vor das Bilder fehlen ( Firefox Zeichen für fehlendes Bild..):  
+Wenn nun tatsächlich eine Website angezeit wird, kommt es vor das Bilder fehlen ( Firefox Zeichen für fehlende Bilder vor den Wagen..):  
 ![Fehlendes Bild](/anzeigen/Fehlendes_Bild.jpg)  
   
 
@@ -49,6 +49,6 @@ Aber auch im Normalbetrieb läuft nicht alles rund...:
 {{< /rawhtml >}}  
 
   
-Das Stocken des Laufbalken ist wahrscheinlich auf schlechte Programmierung oder falsche Konfiguration zurückzuführen...  
-Man sieht also, dass man vllt. eine Qualitätskontrolle beim Softwarentwickler einführen sollte. Und das Windows als Embedded System weitesgehend ungeeignet ist. Und dass ein Browser im Vollbildmodus **kein** eingebettetes System ist.
+Das Stocken des Laufbalken ist wahrscheinlich auf ineffiziente Programmierung oder falsche Konfiguration zurückzuführen...  
+Man sieht also, dass man vllt. eine Qualitätskontrolle beim Softwarentwickler einführen sollte. Und das Windows als Embedded System weitesgehend ungeeignet ist. Und dass ein Browser im Vollbildmodus **kein** eingebettetes System ist...
 
