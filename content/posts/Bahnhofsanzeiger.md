@@ -10,7 +10,7 @@ Nachfolgend stelle ich diese Bilder online.
 Es handelt sich bei dem System um ein Windows 10 !?! auf welchem ein Firefox im Vollbildmodus eine Website anzeigt.  
 Da es sich dabei nicht um ein echtes eingebettes System handelt, sind die Ausfälle häufig und andauernd ( mehrere Stunden).  
 
-Immer wieder einzelne Displays komplett aus:  
+Immer wieder fallen einzelne Displays komplett aus:  
 ![Dunkles Display](/anzeigen/Kaputt.jpg)  
   
 Wenn das Display nun dennoch funktioniert kommt es vor das der Firefox-Tab abstürzt (und das auch bleibt):  
