@@ -1,6 +1,6 @@
  Hier eine Liste kleiner WebTools, die ich für mich geschrieben habe:  
 - Simples DNS Lookup ohne „SchnickSchnack“ 🙂 : [hier](https://tools.pwserv.net/nslookup.php)
-- Die eigene Öffentliche IP anzeigen. Ohne CSS und js : [hier](https://ip.tools.pwserv.net/)
+- Die eigene Öffentliche IP anzeigen. Ohne CSS und js : [hier](https://ip.tools.pwserv.net/) [IPv4](https://ipv4.tools.pwserv.net/) [IPv6](https://ipv6.tools.pwserv.net/)
 - 10GB zufällige Binärdaten. Ideal als Speedtest. (Download startet sofort. Den Download einfach nach dem Test abbrechen): [hier](https://speed.tools.pwserv.net/10GB.bin)  
 - PDF Dokument mit allen Werten der verschiedenen E Reihen : [hier](/E_Reihe.pdf)  
 - Desweiteren habe ich einige [Bookmarklets](https://de.wikipedia.org/wiki/Bookmarklet) geschrieben:
