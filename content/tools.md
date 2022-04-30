@@ -11,7 +11,7 @@
   - Shodan (Ruft die IP Seite von Shodan mit der aktuellen IP auf)
   - Dsgvo ( Ruft die aktuelle Website im DSGVO Checker auf)  
    **Den Sourcecode und eine genauere Beschreibung gibt es [hier](https://gist.github.com/Phiwatec/d65e2cb1d4eb8d3fb0183b2ca370895d)**
-
+- Sehr schöne IP-Info Seite von Peter Bieringer (Danke hierfür): [hier](http://ip.bieringer.net/)
 
 {{< rawhtml >}}
  <img class="connected-via" src='https://v4v6.ipv6-test.com/imgtest.png' alt='ipv6 test' title='ipv6 test' border='0' />
