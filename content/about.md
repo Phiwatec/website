@@ -14,7 +14,7 @@ Github:
 [@Phiwatec](https://github.com/Phiwatec)  
 Wikipedia:
 [Phiwatec](https://de.wikipedia.org/wiki/Benutzer:Phiwatec)  
-
+[GPG PubKey](https://www.philippwasser.de/.well-known/public.gpg) 
 ![IPv6 Website](/v6.webp)  
 
 
