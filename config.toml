@@ -15,7 +15,7 @@ doNotLoadAnimations = true
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:info@philippwasser.de"
 
 [[params.socialIcons]]
 icon = "fab fa-twitter"
