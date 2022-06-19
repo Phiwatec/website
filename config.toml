@@ -4,7 +4,7 @@ theme="anatole"
 title = "Philipps Website"
 author = "Philipp  Wasser"
 
-profilePicture = "profile.webp"
+profilePicture = "profile_new.jpg"
 contentratio = 0.8
 customCss = ["css/custom.css"]
 mainSections = ["posts"]
