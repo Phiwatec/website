@@ -32,7 +32,7 @@ Aber auch im Normalbetrieb läuft nicht alles rund...:
 
 {{< rawhtml >}}
 
-  <video controls="true" style="width:50%;" allowfullscreen="false" poster="/anzeige/stottern.jpg">
+  <video controls="true" style="width:50%;" allowfullscreen="false" poster="/anzeigen/stottern.jpg">
     <source src="/anzeigen/stottern.mp4" type="video/mp4">
   </video>
 
@@ -45,7 +45,7 @@ Hier noch ein Bonus:
 Der vollständige Bootprozess:  
 {{< rawhtml >}}
 
-<video controls="true" style="width:50%;" allowfullscreen="false" poster="/anzeige/boot.png">
+<video controls="true" style="width:50%;" allowfullscreen="false" poster="/anzeigen/boot.png">
 
 <source src="/anzeigen/boot.mp4" type="video/mp4">
 </video>
