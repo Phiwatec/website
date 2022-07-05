@@ -4,7 +4,7 @@ date: 2022-04-25
 draft: false
 ---
 
-Am 28. Juni viel bei mir über Nacht sämtliche IPv6 Konnektivität weg.
+Am 28. Juni fiel bei mir über Nacht sämtliche IPv6 Konnektivität weg.
 Auch mehrere Neustarts des Routers und des Modems brachten ncihts.
 
 Erst nach vier Tagen laß ich zufällig in einem Kabelforum, dass Vodafone anscheinend nur noch einen /58 Prefix vergibt. Da mein Router allerdings einen /56 anforderte wurde ihm kein Prefix zugewsiesen. Es wäre hier von Seiten Vodafones nett gewesen, die Kunden über solche Änderungen zu informieren und sie nicht einfach durchzuführen.
