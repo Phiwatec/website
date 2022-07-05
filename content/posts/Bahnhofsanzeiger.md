@@ -43,7 +43,10 @@ Man sieht also, dass man eine bessere Qualitätskontrolle beim Software-Entwickl
 
 Hier noch ein Bonus:
 Der vollständige Bootprozess:
+{{< rawhtml >}}
+
 <video controls="true" style="width:50%;" allowfullscreen="false" poster="/anzeige/boot.png">
 
 <source src="/anzeigen/boot.mp4" type="video/mp4">
 </video>
+{{< /rawhtml >}}
