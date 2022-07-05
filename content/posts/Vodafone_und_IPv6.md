@@ -1,6 +1,6 @@
 ---
 title: "Vodafone und IPv6 - Änderungen über Nacht"
-date: 2022-04-25
+date: 2022-07-05
 draft: false
 ---
 
