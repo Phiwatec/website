@@ -48,7 +48,8 @@ Der Provider der Seiten erhebt und speichert automatisch Informationen in so gen
 
 Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachträglich zu prüfen, wenn uns konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden.
 ## Hosting  
-Diese Websiet wird auf einem Server der Hetzner Online GmbH  
+Diese Website wird auf einem Server der  
+Hetzner Online GmbH  
 Industriestr. 25  
 91710 Gunzenhausen  
 Deutschland  
