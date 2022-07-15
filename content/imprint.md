@@ -31,12 +31,12 @@ Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden 
 
 Quelle: e-recht24.de  
 # Datenschutzerklärung
-Datenschutz
+## Datenschutz  
 
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
-Server-Log-Files
+## Server-Log-Files  
 
 Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log Files, die Ihr Browser automatisch an uns übermittelt. Dies sind:
 
@@ -47,5 +47,15 @@ Der Provider der Seiten erhebt und speichert automatisch Informationen in so gen
 - Uhrzeit der Serveranfrage
 
 Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachträglich zu prüfen, wenn uns konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden.
+## Hosting  
+Diese Website wird auf einem Server der  
+Hetzner Online GmbH  
+Industriestr. 25  
+91710 Gunzenhausen  
+Deutschland  
+gehostet.
+Auf bestimmten Seiten wird außerdem ein Widget von www.ipv6-test.com eingebunden.  
+Dieses dient ausschließlich zum anzeigen der aktuellen Verbindungsart (IPv4 bzw. IPv6).
+Es werden anderweitig keine Ressourcen von dritten eingebunden.
 
 Quelle: eRecht24
