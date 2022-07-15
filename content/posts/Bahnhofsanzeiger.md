@@ -28,6 +28,12 @@ Es kann aber auch sein, dass der Firefox-Browser komplett abstürzt. (Dieses Bil
 Wenn nun tatsächlich eine Website angezeit wird, kommt es vor, dass Bilder fehlen (Firefox-Symbol für fehlende Bilder vor den Wagen..):  
 ![Fehlendes Bild](/anzeigen/Fehlendes_Bild.jpg)
 
+Oder es wird einfach mal die Schrift- und Bildgröße geändert. Wohlbemerkt nur bei einer einzigen Anzeige...  
+Normale Größe:  
+![Normale Größe](/anzeigen/normal.jpg)
+![Zu klein](/anzeigen/kleine_schrift.jpg)
+
+
 Aber auch im Normalbetrieb läuft nicht alles rund...:
 
 {{< rawhtml >}}
