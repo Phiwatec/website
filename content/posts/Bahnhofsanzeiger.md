@@ -31,6 +31,7 @@ Wenn nun tatsächlich eine Website angezeit wird, kommt es vor, dass Bilder fehl
 Oder es wird einfach mal die Schrift- und Bildgröße geändert. Wohlbemerkt nur bei einer einzigen Anzeige...  
 Normale Größe:  
 ![Normale Größe](/anzeigen/normal.jpg)
+Oder eben auch mal kleiner. (Aber immer noch nur die nächsten 5 Fahrten...)
 ![Zu klein](/anzeigen/kleine_schrift.jpg)
 
 
