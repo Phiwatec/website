@@ -1,6 +1,6 @@
 ---
 title: "Vodafone und IPv4 - Änderungen mitten am Tag"
-date: 2022-07-05
+date: 2022-08-19
 draft: false
 ---
 
