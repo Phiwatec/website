@@ -17,7 +17,9 @@ Wikipedia:
 [GPG PubKey](https://www.philippwasser.de/.well-known/public.gpg) 
 ![IPv6 Website](/v6.webp)  
 
-
+{{< rawhtml >}}
+<img src="//ipv6.he.net/certification/create_badge.php?pass_name=schulnet&amp;badge=1" style="border: 0; width: 128px; height: 128px" alt="IPv6 Certification Badge for schulnet"></img>
+{{< /rawhtml >}}
 {{< rawhtml >}}
   <!-- IPv6-test.com widget BEGIN -->
 <script type="text/javascript">var _ipv6test_widget_style = {
