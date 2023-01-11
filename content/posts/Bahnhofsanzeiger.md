@@ -20,7 +20,7 @@ Wenn das Display funktioniert kommt es vor, dass der Firefox-Tab abstürzt (und 
 Ein weiterer häufiger Fehler ist die Fehlermeldung "Forbidden". Das heißt, die Anzeige darf das, was sie anzeigen soll, nicht anzeigen...:  
 ![Forbidden](/anzeigen/Activate_Windows.jpg)
 
-Dort ist auch das "Activate Windows"-Wasserzeichen zu sehen, was eimen Konfigurationsfehler vermuten lässt...
+Dort ist auch das "Activate Windows"-Wasserzeichen zu sehen, was einen Konfigurationsfehler vermuten lässt...
 
 Es kann aber auch sein, dass der Firefox-Browser komplett abstürzt. (Dieses Bild wurde übrigens am Tag der Eröffnung aufgenommen....)  
 ![Broswer Crash](/anzeigen/Minidump.jpg)
