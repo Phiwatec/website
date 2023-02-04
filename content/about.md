@@ -23,26 +23,7 @@ Wikipedia:
 <img src="/ffka.png" style="border: 0; width: 128px; height: 128px" alt="IPv6 Logo"></img>
 <img src="//ipv6.he.net/certification/create_badge.php?pass_name=schulnet&amp;badge=1" style="border: 0; width: 128px; height: 128px" alt="IPv6 Certification Badge for schulnet"></img>
 {{< /rawhtml >}}
-{{< rawhtml >}}
-  <!-- IPv6-test.com widget BEGIN -->
-<script type="text/javascript">var _ipv6test_widget_style = {
-border: "solid 1px #000",
-font_size: "12px",
-show_country_flags: true,
-show_loading_anim: true,
-ipv4_label_color: "#393",
-ipv4_background_color: "#eee",
-ipv6_label_color: "#339",
-ipv6_background_color: "#ddd",
-stats_position: "bottom",
-stats_font_size: "10px",
-stats_color: "#eee",
-stats_color_v4: "#beb",
-stats_color_v6: "#bbe",
-stats_background_color: "#666"
-}</script>
-<div id="_ipv6test_widget" style="max-width:30em;display:none">loading <a href="https://ipv6-test.com/">IPv6 connection test</a> ...</div><script type="text/javascript" src="https://ipv6-test.com/api/widget.php?domain=referer" async="async"></script>
-<!-- IPv6-test.com widget END -->
+ widget END -->
 {{< /rawhtml >}}
 
 
