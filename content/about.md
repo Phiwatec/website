@@ -23,7 +23,6 @@ Wikipedia:
 <img src="/ffka.png" style="border: 0; width: 128px; height: 128px" alt="IPv6 Logo"></img>
 <img src="//ipv6.he.net/certification/create_badge.php?pass_name=schulnet&amp;badge=1" style="border: 0; width: 128px; height: 128px" alt="IPv6 Certification Badge for schulnet"></img>
 {{< /rawhtml >}}
- widget END -->
-{{< /rawhtml >}}
+
 
 
