@@ -1,6 +1,6 @@
 ---
 title: "Der Digitalführerschein - Ein Beispiel wie man es nicht macht"
-date: 2022-04-25
+date: 2023-04-13
 draft: false
 ---
 
