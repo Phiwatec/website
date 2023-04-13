@@ -4,7 +4,7 @@ date: 2023-04-13
 draft: false
 ---
 
-Unter [https://difü.de/](https://difü.de/) gibt es die Möglichkeit einen digitalen Führerschein zu absolvieren. Dieser wird unter anderem von Bundesministerium des Inneren und für Heimat gefördert:
+Unter [difü.de](https://difü.de/) gibt es die Möglichkeit einen digitalen Führerschein zu absolvieren. Dieser wird unter anderem von Bundesministerium des Inneren und für Heimat gefördert:
 ![Förderung](/dif%C3%BC/F%C3%B6rderung.png)
 Dabei ist die technische Umsetzung der Website leider nicht ganz auf dem Stand der Technik.  
 Um das Zertifikat zu bekommen, muss nach Anmeldung eine Fragerunde absolviert werden.
