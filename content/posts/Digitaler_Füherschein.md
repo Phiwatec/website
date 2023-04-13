@@ -1,7 +1,7 @@
 ---
 title: "Der Digitalführerschein - Ein Beispiel wie man es nicht macht"
 date: 2023-04-13
-draft: false
+draft: true
 ---
 
 Unter [difü.de](https://difü.de/) gibt es die Möglichkeit einen digitalen Führerschein zu absolvieren. Dieser wird unter anderem von Bundesministerium des Inneren und für Heimat gefördert:
