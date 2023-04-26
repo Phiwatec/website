@@ -8,7 +8,7 @@ draft: false
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1023098/t/3"></script>
 
 
-{{< rawhtml >}}
+{{< /rawhtml >}}
 
 **Wilkommen auf meiner Website :)**  
 **Schau dich ruhig um...**  
