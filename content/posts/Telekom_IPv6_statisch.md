@@ -23,5 +23,5 @@ Es ist daher fraglich, warum ein großer deutscher Internetprovider sich nicht a
 DNS kann für viele Anwendungen ein Workaround sein. Allerdings:
 
 - Ist es aufwendiger die DNS Records jedesmal zu aktualisieren ( natürlich automatisiert aber fehleranfällig)
-- Für immer wieder zu Konnektivitätsproblemen da der neue Record noch nicht bei Endgerät angelangt ist
+- Führt immer wieder zu Konnektivitätsproblemen da der neue Record noch nicht beim Endgerät angelangt ist
 - DNS funktionert nur bei Server Anwedungen. Wenn z.B. ein VPN für den Zugriff auf das Heimnetz betrieben werden soll, so kann man den Clients **keine** globale IPv6 Addresse zuweisen, da sie sich ändern kann. Hier muss entweder nur IPv4 oder NAT66 verwendet werden. Beide Lösungen sind aber nur Notlösungen und netzwerktechnisch eher ungünstig.
