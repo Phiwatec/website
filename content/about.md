@@ -9,6 +9,7 @@ Ich bin Vollzeit Linux Nutzer und administriere nebenher mehrere Websites. (Unte
 Seit dem 1.05.22 arbeite ich am [SCC](https://www.scc.kit.edu/) als Netzwerkentwickler.  
 Seit Ende 2022 betreibe ich desweiteren einen FreiFunk Access Point ([ffka-phiwatec](https://map.karlsruhe.freifunk.net/#!/70a74189af02))  
 Ebenfalls seit Ende 2022 hoste ich eine [RIPE Atlas Probe](https://atlas.ripe.net/probes/61376/)  
+Unter [repo.philippwasser.de](https://repo.philippwasser.de/) hoste ich ein Debian-Repo mit eingigen Open-Source Projekten ohne eigenes Repository.  
   
 I❤️IPv6   
 
