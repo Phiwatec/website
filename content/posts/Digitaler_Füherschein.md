@@ -20,4 +20,7 @@ Diesen Aufwand muss man sich aber eigentlich gar nicht machen, da die Antworten 
 Es genügt also nach Beginn der Fragerunde einfach ein Post-Request mit dem gewünschten Scores an den Server zu schicken und bekommt diese gutgeschrieben.  
 Man kann sich dabei auch mehr Punkte geben als eigentlich erreichbar wären. ;)
 
-So eine Technik würde wahrscheinlich in der Digitalführerschein-Prüfung durchfallen.
+So eine Technik würde wahrscheinlich in der Digitalführerschein-Prüfung durchfallen.  
+
+Ich habe diese Sicherheitslücke am 13. April 2023 gemeldet. Nach einer Nachfrage ihrerseits gab es leider keine weiteren Reaktionen.  
+Auch jetzt (Stand 18.07.2023) ist die Sicherheitslücke noch vorhanden.  
