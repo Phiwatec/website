@@ -14,5 +14,5 @@
 - Sehr schöne IP-Info Seite von Peter Bieringer (Danke hierfür): [hier](http://ip.bieringer.net/)
 
 {{< rawhtml >}}
- <img class="connected-via" src='https://v4v6.ipv6-test.com/imgtest.png' alt='ipv6 test' title='ipv6 test' border='0' />
+ <img class="connected-via" src='https://img.ip.tools.pwserv.net/test.png' alt='ipv6 test' title='ipv6 test' border='0' />
 {{< /rawhtml >}}
